@@ -3,7 +3,7 @@
 Este é um sistema em C# que simula o gerenciamento de um transporte público, com bilhetes únicos, recargas, validações e pagamento de passagens de ônibus, Fiz esse projeto para praticar **Programação Orientada a Objetos** e lógica em C#.
 
 ## O que esse projeto faz? 🛠️
-Este é um sistema de console que simula algumas funcionalidades de um transporte público, como o sistema de bilhete único de São Paulo. Ele inclui:
+Este é um sistema de console que simula algumas funcionalidades de um transporte público, Ele inclui:
 
 - **Recarga de bilhete**: Adicione saldo ao seu bilhete (com uma taxa de serviço).
 - **Validação de bilhete**: Valide seu bilhete antes de usar o transporte.
@@ -11,7 +11,8 @@ Este é um sistema de console que simula algumas funcionalidades de um transport
 - **Gerenciamento de rotas**: Adicione e exiba rotas de ônibus.
 - **Estimativa de tempo**: Veja o tempo estimado da viagem com base nas rotas (estimativa simples).
 
-É um projeto de iniciante, então tem muito espaço pra crescer, mas já mostra como usar herança, encapsulamento e composição em C#!
+##Conceitos treinados**
+Herança, polimorfismo, classes abstratas, composição, interação de objetos entre classes etc
 
 ## Como usar? 🚀
 1. **Pré-requisitos**:
