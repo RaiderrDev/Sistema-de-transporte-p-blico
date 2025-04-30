@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\bin\Debug\net8.0\Sistema de transportes.exe
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\bin\Debug\net8.0\Sistema de transportes.deps.json
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\bin\Debug\net8.0\Sistema de transportes.runtimeconfig.json
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\bin\Debug\net8.0\Sistema de transportes.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\bin\Debug\net8.0\Sistema de transportes.pdb
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.AssemblyInfo.cs
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\refint\Sistema de transportes.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.pdb
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\Sistema de transportes.genruntimeconfig.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de transportes\obj\Debug\net8.0\ref\Sistema de transportes.dll
